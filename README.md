@@ -61,5 +61,6 @@ We can connect our excel file as shown below:
 Once connected it will open the data source tab where we need to drang and drop our excel sheet
 The data will be listed in form of a table:
 
-![image](https://user-images.githubusercontent.com/81869471/115988767-d0d3ea00-a5d8-11eb-952c-b90d58c2157a.png)
+![Capture1](https://user-images.githubusercontent.com/81869471/115989009-b6e6d700-a5d9-11eb-878f-bbe06ae5cd74.PNG)
+
 
