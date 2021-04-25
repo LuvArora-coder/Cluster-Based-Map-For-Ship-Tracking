@@ -40,4 +40,18 @@ Once ships location is added in the database and geohash value is is obtained, c
 The only data required is - latitude, longitude , mmsi and geo hash.
 As soon as step 4 is performed for all ships, add those geohashes into the excel file.
 
+I have added the data in the GEO DATA excel file.(perform step 3 and step 4 for any number of ships that you want to represent on the system) 
+
+Step 6: Representation of the Final Data
+
+The only file required now is GEO DATA which has latitude, longitude, mmsi and geo hash.
+
+To represent the data i have used Tableau 2021.1 (Download link:https://www.tableau.com/products/desktop/download)
+It is simple process for installation. You can refer to this video for installation of tableau - https://www.youtube.com/watch?v=U5Jt2psRXXQ
+
+To connect our data with tableau we need to install Cdata ODBC Drivers (link:https://www.cdata.com/drivers/redis/odbc)
+These drivers are used to connect our redis database with tableau but as we are using filtered data we can directly connect tableau with out excel file(GEODATA.xlss)
+
+
+
 
