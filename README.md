@@ -4,7 +4,13 @@ Roll No: 2021003
 
 Division: A
 
+Course: RDBMS
+
+Faculty Name: Vaibhav Vasani
+
 Dept: Computer Engg
+
+College: K.J. Somaiya College Of Engineering, Vidyavihar, Mumbai
 
 # **Step 1**: Install Redis Database (link: https://redis.io/download )
 
