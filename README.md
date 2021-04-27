@@ -63,4 +63,20 @@ The data will be listed in form of a table:
 
 ![Capture1](https://user-images.githubusercontent.com/81869471/115989009-b6e6d700-a5d9-11eb-878f-bbe06ae5cd74.PNG)
 
+Now we put the data on to a sheet to display it :
+
+![image](https://user-images.githubusercontent.com/81869471/116189937-5bd2f280-a747-11eb-8ce6-369a8c237c0a.png)
+
+The above image shows smoe of the ships individually, so now we convert it into a cluster by grouping them in a radius of 50 km:
+
+![1](https://user-images.githubusercontent.com/81869471/116190160-c08e4d00-a747-11eb-9f4c-475f9bec8d23.png)
+
+Right and click on group data to create a cluster:
+
+![2](https://user-images.githubusercontent.com/81869471/116190269-f29faf00-a747-11eb-9e76-e1e26a7efe40.png)
+
+Finally a cluster is created in a form of MMSI group. The base station now can easily identify the group of ships which require more attention by just checking how many ships are present in the ship cluster . Using tableau we can even give clour to such clusters to represent which clusters have more amount of ships.
+
+# CONCLUSION:
+
 
