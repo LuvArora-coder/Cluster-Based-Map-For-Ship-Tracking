@@ -78,5 +78,7 @@ Right and click on group data to create a cluster:
 Finally a cluster is created in a form of MMSI group. The base station now can easily identify the group of ships which require more attention by just checking how many ships are present in the ship cluster . Using tableau we can even give clour to such clusters to represent which clusters have more amount of ships.
 
 # CONCLUSION:
+We have stored, processed and retrieved ship position sent by AIS using Redis. The cluster point is used to determine the center point of the clustered ships. Then the result ship position query is plotted into the web based map using Tableau. The data requested by the first user is kept in the memory so reading and writing activity shall be faster. Redis is a memory based cache, the data is first kept in the memory so writing and reading activity is faster
+
 
 
